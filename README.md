@@ -21,5 +21,5 @@ As we have to train the model to determine the continuous values, so we will be 
 
 And to calculate loss we will be using the mean_absolute_percentage_error module
 
-Conlcusion: clearly SVM model is giving better accuracy as the mean absolute error is the least among all the other regressor models i.e. 0.16 approx.
+#### Conlcusion: clearly SVM model is giving better accuracy as the mean absolute error is the least among all the other regressor models i.e. 0.16 approx.
 To get much better results ensemble learning techniques like Bagging and Boosting can also be used.
